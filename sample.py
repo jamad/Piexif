@@ -2,7 +2,6 @@ from PIL import Image
 import piexif
 
 filename=r"C:\\Users\\jamad\\Desktop\\IMG-4199.JPG"  
-#filename=r"E:\\naue\\naue\\0087-01.jpg"  
 
 
 D = piexif.load(filename)
